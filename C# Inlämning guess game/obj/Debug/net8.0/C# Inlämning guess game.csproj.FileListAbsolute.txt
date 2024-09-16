@@ -1,0 +1,14 @@
+C:\VS\C# Inlämning guess game\bin\Debug\net8.0\C# Inlämning guess game.exe
+C:\VS\C# Inlämning guess game\bin\Debug\net8.0\C# Inlämning guess game.deps.json
+C:\VS\C# Inlämning guess game\bin\Debug\net8.0\C# Inlämning guess game.runtimeconfig.json
+C:\VS\C# Inlämning guess game\bin\Debug\net8.0\C# Inlämning guess game.dll
+C:\VS\C# Inlämning guess game\bin\Debug\net8.0\C# Inlämning guess game.pdb
+C:\VS\C# Inlämning guess game\obj\Debug\net8.0\C# Inlämning guess game.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS\C# Inlämning guess game\obj\Debug\net8.0\C# Inlämning guess game.AssemblyInfoInputs.cache
+C:\VS\C# Inlämning guess game\obj\Debug\net8.0\C# Inlämning guess game.AssemblyInfo.cs
+C:\VS\C# Inlämning guess game\obj\Debug\net8.0\C# Inlämning guess game.csproj.CoreCompileInputs.cache
+C:\VS\C# Inlämning guess game\obj\Debug\net8.0\C# Inlämning guess game.dll
+C:\VS\C# Inlämning guess game\obj\Debug\net8.0\refint\C# Inlämning guess game.dll
+C:\VS\C# Inlämning guess game\obj\Debug\net8.0\C# Inlämning guess game.pdb
+C:\VS\C# Inlämning guess game\obj\Debug\net8.0\C# Inlämning guess game.genruntimeconfig.cache
+C:\VS\C# Inlämning guess game\obj\Debug\net8.0\ref\C# Inlämning guess game.dll

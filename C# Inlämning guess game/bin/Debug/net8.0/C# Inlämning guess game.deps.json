@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "C# Inlämning guess game/1.0.0": {
+        "runtime": {
+          "C# Inlämning guess game.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C# Inlämning guess game/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
